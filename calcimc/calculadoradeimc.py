@@ -3,8 +3,8 @@ print('Você deve logar para continuar!')
 login = input('Digite seu login: ')
 senha = input('Digite sua senha: ')
 
-login_permitido = 'schulx'
-senha_permitida = 'Ef3263cod!'
+login_permitido = 'teste'
+senha_permitida = 'teste'
 
 while login == login_permitido and senha == senha_permitida:
     print('Você está conectado!')
